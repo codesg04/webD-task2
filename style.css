@@ -1,0 +1,60 @@
+body{
+    
+    text-align: center; 
+    background-color: red;
+    background-image: linear-gradient(rgb(233, 106, 127), rgb(248, 248, 85));
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 500;
+   
+    
+    
+}
+
+.mainbody{
+    text-align: center;
+    width: 90%;
+    height: auto;
+    margin: 5% auto 5% auto;
+    border-radius: 5%;
+    background-color: white;
+    padding-bottom: 2%;
+}
+
+.heading{
+    padding-top: 30px;
+    padding-bottom: 20px;
+ 
+}
+
+ul {
+    text-align: center;
+    margin-bottom: 2%;
+} 
+li {
+    display: block;
+     }
+
+
+img {
+    width: 10%;
+    border-radius: 100%;
+    border: 2px solid rgb(255, 0, 119); 
+    
+}
+
+table{
+    margin: 0 auto 0 auto;
+    margin-bottom: 2%;
+}
+
+.enterform{
+    float: left;
+    margin-left: 5%;
+}
+.form{
+    margin-bottom: 2%;
+}
+
+span.star {
+    font-size: 22px;
+}
